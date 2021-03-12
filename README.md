@@ -1,2 +1,2 @@
-# nustest20210312
-Test project
+# This is a test project
+I am learning Github
